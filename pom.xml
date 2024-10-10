@@ -71,6 +71,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>flight-api</finalName>
     </build>
 
 </project>
